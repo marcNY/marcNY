@@ -1,4 +1,4 @@
-### Hi there 👋; I am Marc Fiani
+
 
 <!--
 **marcNY/marcNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Marc+Fiani!;" />
-</h1>
+
 
 
 -->
 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Marc+Fiani!;" />
+</h1>
 
 <h3 align="center">Data Science & AI Leader</h3>
 
