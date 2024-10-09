@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0277b5&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+This+is+Marc!;" />
 </h1>
-<h3 align="center">Data Science & AI Leader</h3>
+<h3 align="center">Data Science & Analytics</h3>
 
 <div align="center"> 
   <a href="mailto:marc@fiani.co" target="_blank">
